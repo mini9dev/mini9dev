@@ -36,12 +36,9 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-<a href="https://swg.page.gd/">
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" style="display: inline-block;" />
-</a>&nbsp;&nbsp;
-<a href="https://www.presencedb.com/user/675364815870492693">
-<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40" style="display: inline-block;" />
-</a>
+  <a href="https://swg.page.gd/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" style="display: inline-block;"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.presencedb.com/user/675364815870492693"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="40" style="display: inline-block;"/></a>
 </p>
 
 <p align="center">
