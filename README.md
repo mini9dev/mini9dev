@@ -28,9 +28,9 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://swg.page.gd/" target="_blank" rel="noreferrer noopener">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
+<a href="https://swg.page.gd/">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+</a>
 </p>
 
 <p align="center">
