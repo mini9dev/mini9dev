@@ -39,6 +39,9 @@
 <a href="https://swg.page.gd/">
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
 </a>
+<a href="https://www.presencedb.com/user/675364815870492693">
+<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Website" width="40" />
+</a>
 </p>
 
 <p align="center">
