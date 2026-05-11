@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=FakeGames%20Launcher%2C%20my%20best%20project%20%3C3" alt="Typing introduction" />
+  
+  [___](https://www.virustotal.com/gui/file/437d51509c189d1e5aa4073776ebeb94afeef611f1b547d82b5aad3a3ee533c3)
+</p>
+
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=mini9dev">
     <img src="https://komarev.com/ghpvc/?username=mini9dev&label=Profile%20views&color=00FFFF&style=flat-square" alt="mini9dev's profile views" />
   </a>
