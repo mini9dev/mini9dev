@@ -3,34 +3,32 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mini9dev&label=Profile%20views&color=00FFFF&style=flat-square" alt="mini9dev's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=mini9dev">
+    <img src="https://komarev.com/ghpvc/?username=mini9dev&label=Profile%20views&color=00FFFF&style=flat-square" alt="mini9dev's profile views" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mini9dev&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="mini9dev's GitHub Streak" width="49%" />
 </p>
-
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=mini9dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="mini9dev's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=mini9dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt=" swg's GitHub Trophies" />
 </p>
-
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
 
+
 ## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://stats.pphat.top/languages?username=mini9dev" alt="Top languages" />
-</p>
+![Top language](https://stats.pphat.top/languages?username=mini9dev)
+<br/>
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://swg.page.gd/" target="_blank" rel="noreferrer">
+  <a href="https://swg.page.gd/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
