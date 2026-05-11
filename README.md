@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%20swg&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=mini9dev&descSize=18&descAlignY=55&textBg=false" alt="Title capsule" />
+  <a href="https://github.com/mini9dev">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%20swg&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=mini9dev&descSize=18&descAlignY=55&textBg=false" alt="Title capsule" />
+  </a>
 </p>
 
 <p align="center">
