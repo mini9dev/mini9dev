@@ -40,7 +40,7 @@
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
 </a>&nbsp;&nbsp;
 <a href="https://www.presencedb.com/user/675364815870492693">
-<img src="[https://www.svgrepo.com/show/353655/discord-icon.svg](https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg)" alt="discord" width="40" />
+<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40" />
 </a>
 </p>
 
