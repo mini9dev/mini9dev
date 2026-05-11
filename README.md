@@ -1,40 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%20swg&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=mini9dev&descSize=18&descAlignY=55&textBg=false"/>
-
+<h1 align="center">Hi, I'm Hugo 👋</h1>
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=mini9dev">
-    <img src="https://komarev.com/ghpvc/?username=mini9dev&label=Profile%20views&color=00FFFF&style=flat-square" alt="mini9dev's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mini9dev&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="mini9dev's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=mini9dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt=" swg's GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
-
-
-## 🛠️ Languages & Tools
-![Top language](https://stats.pphat.top/languages?username=mini9dev)
-<br/>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://swg.page.gd/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
+  Développeur web / passionné tech, j’aime construire des projets utiles, apprendre vite et améliorer mes outils.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <a href="https://swg.page.gd/">Portfolio</a> ·
+  <a href="https://github.com/mini9dev">GitHub</a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
-</div>
+## 🛠️ Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff" />
+</p>
+
+## 🚀 Projets mis en avant
+- **Projet 1** — courte description du problème résolu.
+- **Projet 2** — ce que tu as appris / construit.
+- **Projet 3** — démo ou lien live.
+
+## 📊 GitHub
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mini9dev&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+## 📫 Contact
+<p align="center">
+  <a href="https://swg.page.gd/">Website</a>
+</p>
